@@ -1,5 +1,9 @@
 # BuilderPattern
 建造者模式学习
+## 项目类图
+![项目类图](https://github.com/qiaojiuyuan/BuilderPattern/raw/master/class_pic1.png)
+## 建造者模式通用类图
+![建造者模式通用类图](https://github.com/qiaojiuyuan/BuilderPattern/raw/master/class_pic2.png)
 ## 定义
 ```
 将一个复杂的对象的构建与它的表示分离，使得同样的构建过程可以创建不同的表示
